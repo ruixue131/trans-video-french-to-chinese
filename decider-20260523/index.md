@@ -18,13 +18,13 @@ parent: "/"
 ## 学习材料
 
 <div class="card-links" style="margin-top: 1rem;">
-  <a href="article_fr">📖 法语文稿</a> — 完整法语文章（不含时间轴）
+  <a href="article_fr.html">📖 法语文稿</a> — 完整法语文章（不含时间轴）
   <br>
-  <a href="article_cn">📖 中文文稿</a> — 完整中文翻译
+  <a href="article_cn.html">📖 中文文稿</a> — 完整中文翻译
   <br>
-  <a href="annotations">📝 注释与学习指南</a> — 三层分级词汇 + 语法精讲 + 句法模板
+  <a href="annotations.html">📝 注释与学习指南</a> — 三层分级词汇 + 语法精讲 + 句法模板
   <br>
-  <a href="glossary">📊 术语表</a> — 19 个关键术语汇总
+  <a href="glossary.html">📊 术语表</a> — 19 个关键术语汇总
 </div>
 
 ## 内容概要
