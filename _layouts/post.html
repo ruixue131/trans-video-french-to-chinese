@@ -18,7 +18,7 @@
     <article class="post">
       <header class="post-header">
         {% if page.parent %}
-        <a class="back-link" href="{{ page.parent }}">&larr; 返回</a>
+        <a class="back-link" href="{{ site.baseurl }}{{ page.parent }}">&larr; 返回</a>
         {% endif %}
         <h1>{{ page.title }}</h1>
         {% if page.date %}

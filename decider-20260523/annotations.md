@@ -1,7 +1,7 @@
 ---
 title: 注释与学习指南 — Décider
 layout: post
-parent: "{{ site.baseurl }}/decider-20260523/"
+parent: "/decider-20260523/"
 ---
 
 # 注释与学习指南：Décider (决策)

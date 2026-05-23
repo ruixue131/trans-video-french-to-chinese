@@ -1,7 +1,7 @@
 ---
 title: Décider — 决策
 layout: post
-parent: "{{ site.baseurl }}/"
+parent: "/"
 ---
 
 本视频以"决策"为核心，探讨了人工智能的起源与本质。主讲人Roger Vandome指出，理解人工智能的前提是理解人类自然智能，而智能的核心在于适应环境并做出最优决策。
