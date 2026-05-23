@@ -1,0 +1,30 @@
+# Jekyll 配置
+title: Loe's Notes
+tagline: 法语视频学习材料站
+description: 从法语视频中提取的学习材料 — 法语文稿、中文文稿、注释与术语表
+
+# GitHub Pages 设置
+baseurl: "/trans-video-french-to-chinese"
+url: ""
+
+# 构建设置
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+# 默认布局
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+# 排除文件
+exclude:
+  - README.md

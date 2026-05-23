@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <span class="site-tagline">{{ site.tagline }}</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <article class="post">
+      <header class="post-header">
+        {% if page.parent %}
+        <a class="back-link" href="{{ page.parent }}">&larr; 返回</a>
+        {% endif %}
+        <h1>{{ page.title }}</h1>
+        {% if page.date %}
+        <time class="post-date">{{ page.date | date: "%Y年%m月%d日" }}</time>
+        {% endif %}
+      </header>
+      <div class="post-content">
+        {{ content }}
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>{{ site.title }} &copy; {{ site.time | date: '%Y' }}</p>
+    </div>
+  </footer>
+</body>
+</html>
