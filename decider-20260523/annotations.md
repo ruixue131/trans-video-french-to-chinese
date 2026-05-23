@@ -54,7 +54,7 @@ parent: "{{ site.baseurl }}/decider-20260523/"
 
 #### choix (n.m.)
 
-> **Larousse**: Action de choisir, de préférer un among plusieurs. [https://www.larousse.fr/dictionnaires/francais/choix/15503]
+> **Larousse**: Action de choisir, de préférer un parmi plusieurs. [https://www.larousse.fr/dictionnaires/francais/choix/15503]
 
 原文例句：L'adaptation est fondée sur des choix, et l'être humain est condamné à prendre des décisions.
 
@@ -100,7 +100,7 @@ parent: "{{ site.baseurl }}/decider-20260523/"
 
 基础搭配：faiblesse mentale (智力弱势), point faible (弱点), avoir une faiblesse pour (偏爱...).
 
-学习提示：形容词 faible 加后缀 -esse 构成名词。注意发音 [fɛb]，p 和 s 均不发音。
+学习提示：形容词 faible 加后缀 -esse 构成名词。发音 [fɛ.blɛs]，注意词中 p 不发音。
 
 #### conséquence (n.f.)
 
