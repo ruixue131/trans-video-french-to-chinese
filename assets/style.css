@@ -53,7 +53,6 @@ body {
   font-family: 'Playfair Display', 'Noto Serif SC', serif;
   font-size: 2rem;
   font-weight: 400;
-  font-style: italic;
   color: var(--ink);
   text-decoration: none;
   display: block;
@@ -112,7 +111,6 @@ body {
 .article-card h2 a {
   font-family: 'Playfair Display', 'Noto Serif SC', serif;
   font-size: 1.4rem;
-  font-style: italic;
   color: var(--ink);
   text-decoration: none;
   font-weight: 400;
@@ -147,7 +145,6 @@ article.post {
   font-family: 'Playfair Display', 'Noto Serif SC', serif;
   font-size: 1.8rem;
   font-weight: 400;
-  font-style: italic;
   color: var(--ink);
   letter-spacing: 0.01em;
 }
@@ -179,10 +176,10 @@ article.post {
   margin-top: 2.2rem;
   margin-bottom: 0.7rem;
 }
-.post-content h1 { font-size: 1.6rem; font-style: italic; border-bottom: 1px solid var(--border-subtle); padding-bottom: 0.4rem; }
-.post-content h2 { font-size: 1.35rem; font-style: italic; }
+.post-content h1 { font-size: 1.6rem; border-bottom: 1px solid var(--border-subtle); padding-bottom: 0.4rem; }
+.post-content h2 { font-size: 1.35rem; }
 .post-content h3 { font-size: 1.15rem; color: var(--taupe-dark); }
-.post-content h4 { font-size: 1.05rem; font-style: italic; color: var(--sage); }
+.post-content h4 { font-size: 1.05rem; color: var(--sage); }
 .post-content p { margin-bottom: 1.1rem; }
 .post-content ul, .post-content ol { margin: 0.5rem 0 1.2rem 1.8rem; color: var(--ink-soft); }
 .post-content li { margin-bottom: 0.35rem; }
