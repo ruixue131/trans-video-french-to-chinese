@@ -1,5 +1,5 @@
 ---
-title: 中文文稿 — 决策
+title: 中文文稿 — decider
 layout: post
 parent: "/decider-20260523/"
 ---

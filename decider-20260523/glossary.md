@@ -1,5 +1,5 @@
 ---
-title: 术语表 — Décider
+title: 术语表 — decider
 layout: post
 parent: "/decider-20260523/"
 ---

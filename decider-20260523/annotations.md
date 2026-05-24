@@ -1,5 +1,5 @@
 ---
-title: 注释与学习指南 — Décider
+title: 注释与学习指南 — decider
 layout: post
 parent: "/decider-20260523/"
 ---

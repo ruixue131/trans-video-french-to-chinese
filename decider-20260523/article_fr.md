@@ -1,5 +1,5 @@
 ---
-title: 法语文稿 — Décider
+title: 法语文稿 — decider
 layout: post
 parent: "/decider-20260523/"
 ---
